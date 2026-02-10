@@ -98,7 +98,7 @@ npm start
 
 You can try the live project here:  
 
-🔗 **Backend (Render/Heroku):** [API Link](https://trendlane.onrender.com/)  
+🔗 **Backend (Render/Heroku):** [API Link](https://trendlane-zwyf.onrender.com/)  
 
 ---
 
