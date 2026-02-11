@@ -131,5 +131,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer  
 
-**Keshav Khandelwal**  
-📧 [Email](mailto:keshavkhandelwal.jwr@gmail.com) | 🌐 [Portfolio](https://keshav-khandelwal.github.io/KESHAV_PORTFOLIO/) | 💼 [LinkedIn](https://www.linkedin.com/in/keshav-khandelwal-kk/) | 🐙 [GitHub](https://github.com/keshav-khandelwal)  
+**Rishav Raj**  
+
