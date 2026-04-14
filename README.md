@@ -110,10 +110,7 @@ You can try the live project here:
   <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213543.png?raw=true" alt="Screenshot 2" width="900" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213601.png?raw=true" alt="Screenshot 3" width="900" />
-  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213631.png?raw=true" alt="Screenshot 4" width="900" />
-</p>
+
 
 ---
 
